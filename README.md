@@ -27,7 +27,7 @@ fabric-server
 
 The server will start and listen on `http://localhost:3001`.
 
-Then open the `FabricPatternsUI.html` in a web browser.
+Download and open the [FabricPatternsUI.html](FabricPatternsUI.html) in a web browser.
 
 ## API Endpoints
 
